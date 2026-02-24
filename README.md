@@ -24,4 +24,4 @@ This project analyzes county-level Air Quality Index (AQI) data from the U.S. En
 ## Future Improvements
 - Add interactive dashboard
 - Include geographic mapping
-![Top States AQI](top_states.png)
+ ![Top States AQI](top_states.png)
