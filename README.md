@@ -19,7 +19,7 @@ This project analyzes county-level Air Quality Index (AQI) data from the U.S. En
 
 ## Files
 - `aqi_analysis.ipynb` → Full notebook analysis
-- `annual_aqi_by_county_2025.csv` → Dataset (if allowed to share)
+- `annual_aqi_by_county_2025.csv` → Dataset 
 
 ## Future Improvements
 - Add interactive dashboard
